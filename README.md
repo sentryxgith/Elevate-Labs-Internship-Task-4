@@ -1,6 +1,8 @@
 # Elevate-Labs-Internship-Task-4
 
 # Bike Sales in Europe Dashboard
+![Screenshot 2025-05-16 210206](https://github.com/user-attachments/assets/7172985d-2dd8-4632-a991-08c8d3980b28)
+
 
 ## Overview
 This project analyzes European bike sales (2011–2016) using Power BI. The dashboard provides interactive insights into sales trends, product performance, customer demographics, and profitability across countries.
